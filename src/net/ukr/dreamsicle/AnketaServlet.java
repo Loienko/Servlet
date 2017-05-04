@@ -12,9 +12,9 @@ import java.io.IOException;
  */
 public class AnketaServlet extends HttpServlet {
 
-    static String Name = "Ann";
-    static final String Surname = "Loienko";
-    static final int Age = 26;
+    static String Name;
+    static String Surname;
+    static int Age;
     public static int q1Yes = 0;
     public static int q1No = 0;
     public static int q2Yes = 0;

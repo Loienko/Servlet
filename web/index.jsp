@@ -1,12 +1,7 @@
 <%@ page import="net.ukr.dreamsicle.AnketaServlet" %>
-<%@ page import="net.ukr.dreamsicle.AnketaServlet" %><%--
-  Created by IntelliJ IDEA.
-  User: Yurii
-  Date: 04.05.2017
-  Time: 22:20
-  To change this template use File | Settings | File Templates.
---%>
+<%@ page import="net.ukr.dreamsicle.AnketaServlet" %>
 <%@ page contentType="text/html;charset=UTF-8" language="java" %>
+
 <html>
 <head>
     <title>$Title$</title>
